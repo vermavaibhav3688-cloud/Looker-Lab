@@ -1,3 +1,4 @@
+# flight analysis
 view: flight_analysis {
   sql_table_name: `cloud-training-demos.looker_flights.flights` ;;
 
