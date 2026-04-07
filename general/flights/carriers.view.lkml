@@ -1,3 +1,4 @@
+# test comment
 view: carriers {
   sql_table_name: `cloud-training-demos.looker_flights.carriers` ;;
 
