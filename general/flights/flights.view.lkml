@@ -1,4 +1,4 @@
-
+# test message
 view: flights {
   sql_table_name: `cloud-training-demos.looker_flights.flights` ;;
 
